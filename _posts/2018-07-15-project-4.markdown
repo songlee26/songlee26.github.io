@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: game.png
+alt: image-alt
+project-date: Dec 2018
+description: 만두와 친구들!
+---

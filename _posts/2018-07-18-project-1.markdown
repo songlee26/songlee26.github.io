@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+date: 2018-12-18
+img: cabin.png
+alt: image-alt
+project-date: Dec 2018
+description: 만두와 친구들!
+
+---
