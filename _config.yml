@@ -37,7 +37,7 @@ footer:
   copyright: Songlee Cho Corp. 
   location: Location
   social: Social
-#  credits: Credits
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -59,7 +59,7 @@ address:
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'gb.'
 
 # Build settings
 markdown: kramdown
